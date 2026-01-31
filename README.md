@@ -2,6 +2,10 @@
 <h3 align="center">Full-Stack Web Developer | AI SaaS Builder | UI/UX Designer</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prashanth9894&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+</p>
+
+<p align="center">
   <a href="https://prashanth9894.github.io/imprashanth.github.io">
     <img src="https://img.shields.io/badge/Portfolio-prashanth9894.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
@@ -93,6 +97,22 @@ Currently building **AI-driven platforms** for journaling, memory recall, and sm
 - MongoDB + Node.js – MongoDB University  
 - JavaScript & React – GUVI  
 - RDBMS – Spoken Tutorial  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanth9894&show_icons=true&theme=default&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prashanth9894&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth9894&layout=compact&theme=default&cache_seconds=86400" />
+</p>
 
 ---
 
