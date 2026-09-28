@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://prashanth9894.github.io/imprashanth.github.io](https://prashanth9894.github.io/)">
+  <a href="[[https://prashanth9894.github.io/imprashanth.github.io](https://prashanth9894.github.io/](https://prashanth9894.github.io/))">
     <img src="https://img.shields.io/badge/Portfolio-prashanth9894.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/prashanth-n-b15792255/">
